@@ -67,7 +67,7 @@ git clone https://github.com/OokamiKami/Sistema-de-Gest-o-de-Pe-as---M-tis-Indus
 
 2. **Acesse a pasta do projeto:**
 ```bash
-cd NOME_DO_REPOSITORIO
+cd Sistema-de-Gest-o-de-Pe-as---M-tis-Industrial
 ```
 
 3. **Execute o programa:**
